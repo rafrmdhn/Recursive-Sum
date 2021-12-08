@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-//Divisibility
     int baris;
     int i, j;
 
